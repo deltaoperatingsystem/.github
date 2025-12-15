@@ -1,2 +1,2 @@
-# .github
-this is the main repository for deltaOS.
+# deltaOS
+this is the main and official repository for deltaOS.
