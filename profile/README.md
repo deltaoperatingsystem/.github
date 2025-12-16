@@ -1,2 +1,2 @@
 ## deltaoperatingsystem
-this is the orignisation that owns deltaOS project.
+this is the organisation that owns deltaOS project.
